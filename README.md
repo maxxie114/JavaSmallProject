@@ -13,10 +13,6 @@
 - This is a <b>Guess A Number</b> Game
 - This is also a project as a school project.
 
-/*
-//## Downloads
-//- Download [Guess_A_Number_app_V4.0.1.jar](https://github.com/maxxie114/JavaSmallProject/releases). 
-*/
 ## Features
 - [x] Info
 - [x] Newest version
