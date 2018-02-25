@@ -2,8 +2,7 @@
  
  
  
- Jar [![Download](https://img.shields.io/badge/JavaGame-Download-blue.svg)](https://github.com/maxxie114/JavaSmallProject/releases)  
- View Count [![HitCount](http://hits.dwyl.io/maxxie114/JavaSmallProject.svg)](http://hits.dwyl.io/maxxie114/JavaSmallProject) 
+ [![Download](https://img.shields.io/badge/JavaGame-Download-blue.svg)](https://github.com/maxxie114/JavaSmallProject/releases)  [![HitCount](http://hits.dwyl.io/maxxie114/JavaSmallProject.svg)](http://hits.dwyl.io/maxxie114/JavaSmallProject) 
 
 ## The how to play tutorial is in:
 - help --> howToPlay
