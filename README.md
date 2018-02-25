@@ -3,7 +3,7 @@
  
 | Jar | View Count |
 | :---: | :---: |
- [![Download](https://img.shields.io/badge/JavaSmallProject-Download-blue.svg)](https://github.com/maxxie114/JavaSmallProject/releases) | [![HitCount](http://hits.dwyl.io/maxxie114/JavaSmallProject.svg)](http://hits.dwyl.io/maxxie114/JavaSmallProject) |
+ [![Download](https://img.shields.io/badge/JavaGame-Download-blue.svg)](https://github.com/maxxie114/JavaSmallProject/releases) | [![HitCount](http://hits.dwyl.io/maxxie114/JavaSmallProject.svg)](http://hits.dwyl.io/maxxie114/JavaSmallProject) |
 
 ## The how to play tutorial is in:
 - help --> howToPlay
@@ -13,8 +13,10 @@
 - This is a <b>Guess A Number</b> Game
 - This is also a project as a school project.
 
-## Downloads
-- Download [Guess_A_Number_app_V4.0.1.jar](https://github.com/maxxie114/JavaSmallProject/releases). 
+/*
+//## Downloads
+//- Download [Guess_A_Number_app_V4.0.1.jar](https://github.com/maxxie114/JavaSmallProject/releases). 
+*/
 ## Features
 - [x] Info
 - [x] Newest version
