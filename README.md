@@ -1,4 +1,4 @@
- <b>a java project I made, a game, might not be interesting, but well made.</b>
+ <b>A java project I made, a game, might not be interesting, but well made.</b>
 
 ## The how to play tutorial is in:
 - help --> howToPlay
@@ -16,4 +16,4 @@
 - [x] Gaming hotkey
 - [x] Customizable maximum number
 - [x] Customizable difficulty
-- [X] Jar file
+- [x] Jar file
