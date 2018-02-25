@@ -8,6 +8,8 @@
 - This is a <b>Guess A Number</b> Game
 - This is also a project as a school project.
 
+## Downloads
+- Download the [jar_file](https://github.com/maxxie114/JavaSmallProject/releases). 
 ## Features
 - [x] Info
 - [x] Newest version
