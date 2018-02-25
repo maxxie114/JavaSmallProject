@@ -1,4 +1,9 @@
  <b>A java project I made, a game, might not be interesting, but well made.</b>
+ 
+ 
+| Jar | View Count |
+| :---: | :---: |
+ [![Download](https://img.shields.io/badge/JavaSmallProject-Download-blue.svg)](https://github.com/maxxie114/JavaSmallProject/releases) | [![HitCount](http://hits.dwyl.io/maxxie114/JavaSmallProject.svg)](http://hits.dwyl.io/maxxie114/JavaSmallProject) |
 
 ## The how to play tutorial is in:
 - help --> howToPlay
