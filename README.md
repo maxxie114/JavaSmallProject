@@ -1,4 +1,4 @@
-# a java project I made, a game, might not be interesting, but well made.
+ <b>a java project I made, a game, might not be interesting, but well made.</b>
 
 ## The how to play tutorial is in:
 - help --> howToPlay
@@ -9,11 +9,11 @@
 - This is also a project as a school project.
 
 ## Features
-[x] Info
-[x] Newest version
-[x] Game player AI
-[x] Password protected window
-[x] Gaming hotkey
-[x] Customizable maximum number
-[x] Customizable difficulty
-[X] Jar file
+- [x] Info
+- [x] Newest version
+- [x] Game player AI
+- [x] Password protected window
+- [x] Gaming hotkey
+- [x] Customizable maximum number
+- [x] Customizable difficulty
+- [X] Jar file
